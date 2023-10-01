@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @saksham77ang
-- 👀 I’m interested in enterprenual level software devlopment
-- 🌱 I’m currently learning chartered accountancy
+- 👋 Hi, I’m Saksham Angane
+- 👀 I’m interested in building new websites and going full stack for the same.
+- 🌱 I’m currently learning web devlopement
 - 💞️ I’m looking to collaborate on various languages
-- 📫 How to reach me ... on instagram at saksham.ang
+- 📫 You can reach me at... on instagram at saksham.ang
 
 <!---
 saksham77ang/saksham77ang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
